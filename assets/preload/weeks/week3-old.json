@@ -1,0 +1,26 @@
+{
+	"storyName": "Hitman Must Kill Mommy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Schizophrenzy-Old",
+			"mom3-old",
+			[
+				34,
+				51,
+				88
+			]
+		]
+	],
+	"hideStoryMode": true,
+        "difficulties": "hard",
+	"weekName": "Week 4 Old"
+}

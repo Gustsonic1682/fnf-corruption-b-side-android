@@ -1,22 +1,44 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
+	"storyName": "An old friend...",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"pico",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				114,
+				91,
+				168
+			]
+		],
+		[
+			"Philly-Nice",
+			"pico2",
+			[
+				94,
+				71,
+				148
+			]
+		],
+		[
+			"Full-Clip",
+			"pico3",
+			[
+				74,
+				51,
+				128
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+        "difficulties": "hard",
+	"weekName": "Week 1"
 }

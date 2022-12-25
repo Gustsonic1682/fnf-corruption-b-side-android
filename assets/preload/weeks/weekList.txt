@@ -1,8 +1,13 @@
 tutorial
 week1
+week1-oneshot
+week1-old
 week2
+week2-old
 week3
+week3-old
 week4
 week5
 week6
-week7
+
+

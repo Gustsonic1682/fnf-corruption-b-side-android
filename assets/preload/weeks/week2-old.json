@@ -1,26 +1,26 @@
 {
-	"storyName": "How it all begun...",
+	"storyName": "Scary Month",
 	"hideFreeplay": false,
-	"weekBackground": "mall",
+	"weekBackground": "halloween",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"",
+		"spooky",
 		"bf",
 		"gf"
 	],
 	"songs": [
 		[
-			"Broken-Melancholy",
-			"gf",
+			"Chiller-Old",
+			"spooky3-old",
 			[
-				20,
-				60,
-				153
+				34,
+				51,
+				88
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
         "difficulties": "hard",
-	"weekName": "Tutorial"
+	"weekName": "Week 2"
 }

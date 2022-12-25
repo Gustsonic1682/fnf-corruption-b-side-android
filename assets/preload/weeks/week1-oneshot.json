@@ -1,0 +1,26 @@
+{
+	"storyName": "On My Way",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4-old",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"One-Shot",
+			"pico3",
+			[
+				34,
+				51,
+				88
+			]
+		]
+	],
+	"hideStoryMode": true,
+        "difficulties": "hard",
+	"weekName": "Week 3 Old2"
+}
