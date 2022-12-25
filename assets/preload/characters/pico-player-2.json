@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				46
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance Day 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico Note Up Day 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Note Down Day 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-75,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right Day 1"
+		},
+		{
+			"offsets": [
+				-70,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Left Day 1"
+		},
+		{
+			"offsets": [
+				-108,
+				54
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				4,
+				5,
+				6
+			],
+			"name": "Pico Note Down Day 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				403,
+				120
+			],
+			"anim": "day2-hit",
+			"fps": 24,
+			"name": "Pico Dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_Mom_AssetsD2",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "pico-mom-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		26,
+		67
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

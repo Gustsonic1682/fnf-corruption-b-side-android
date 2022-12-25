@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				-13
+				6,
+				-12
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				-39
+				-16,
+				-58
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-39,
-				27
+				-45,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-45,
-				-11
+				-48,
+				-12
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				5,
+				-3,
 				-6
 			],
 			"loop": false,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				22,
-				-22
+				25,
+				58
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				22,
-				-22
+				25,
+				-6
 			],
 			"loop": true,
 			"fps": 24,
@@ -105,8 +105,8 @@
 		},
 		{
 			"offsets": [
-				9,
-				-17
+				3,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -116,8 +116,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				-16
+				-51,
+				14
 			],
 			"loop": false,
 			"fps": 24,
@@ -127,8 +127,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-40
+				-10,
+				-30
 			],
 			"loop": false,
 			"fps": 24,
@@ -149,8 +149,8 @@
 		},
 		{
 			"offsets": [
-				19,
-				26
+				25,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -182,21 +182,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bfOG",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-og",
 	"flip_x": true,
 	"healthbar_colors": [
-		31,
-		26,
-		47
+		232,
+		106,
+		203
 	],
 	"camera_position": [
 		0,
-		0
+		-50
 	],
 	"sing_duration": 4,
 	"scale": 1

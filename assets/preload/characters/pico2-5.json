@@ -79,12 +79,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Pico_FNF_assetss2-5",
 	"position": [
 		20,
 		310
 	],
-	"healthicon": "pico",
+	"healthicon": "pico2-5",
 	"flip_x": true,
 	"healthbar_colors": [
 		137,

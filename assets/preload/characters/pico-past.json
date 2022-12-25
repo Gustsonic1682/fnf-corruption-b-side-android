@@ -4,7 +4,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				43
+				0
 			],
 			"fps": 24,
 			"anim": "idle",
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				43
+				65,
+				9
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-88,
-				31
+				-68,
+				-7
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -36,8 +36,30 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				45
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				27
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -47,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				180,
-				-19
+				200,
+				-70
 			],
 			"fps": 24,
 			"anim": "singDOWN",
@@ -56,33 +78,33 @@
 			"name": "Pico Down Note0"
 		},
 		{
-			"offsets": [
-				-37,
-				41
-			],
 			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
 			"fps": 24,
-			"anim": "shoot",
+			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "Pico Shoot"
+			"name": "Pico Down Note MISS"
 		},
 		{
-			"offsets": [
-				55,
-				16
-			],
 			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
 			"fps": 24,
-			"anim": "reload",
+			"anim": "singUPmiss",
 			"indices": [],
-			"name": "Pico Reload"
+			"name": "pico Up note miss"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/picoPast",
 	"position": [
-		20,
-		310
+		0,
+		250
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -92,8 +114,8 @@
 		204
 	],
 	"camera_position": [
-		10,
-		-10
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,122 +1,126 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				3,
-				0
+				13,
+				48
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Pico Idle Dance",
-			"indices": []
+			"indices": [],
+			"name": "Pico Idle Dance Day 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				21,
-				27
+				39,
+				190
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "pico Up note0",
-			"indices": []
+			"indices": [],
+			"name": "Pico Note Up Day 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				84,
-				-80
+				-16,
+				-13
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Pico Down Note0",
-			"indices": []
+			"indices": [],
+			"name": "Pico Note Down Day 1"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				80,
-				-38
+				11,
+				84
 			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Pico Down Note MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				28,
-				67
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "pico Up note miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-48,
-				2
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico Note Right0"
+			"fps": 24,
+			"name": "Pico Note Right Day 1",
+			"indices": []
 		},
 		{
-			"offsets": [
-				85,
-				-10
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				17,
+				38
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"fps": 24,
+			"name": "Pico Note Left Day 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				190
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Pico Note Up Day 1",
+			"indices": [
+				5,
+				6,
+				7
+			]
 		},
 		{
 			"offsets": [
-				-45,
-				50
+				-33,
+				53
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "reload",
 			"indices": [],
-			"name": "Pico Note Right Miss"
+			"name": "Pico reload day 1"
 		},
 		{
-			"offsets": [
-				83,
-				28
-			],
 			"loop": false,
+			"offsets": [
+				577,
+				96
+			],
+			"anim": "shoot",
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
+			"name": "Pico Shoot Day 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				69
+			],
+			"anim": "day2-intro",
+			"fps": 24,
+			"name": "Pico Dies",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Pico_Mom_AssetsD1",
 	"position": [
 		0,
-		300
+		280
 	],
-	"healthicon": "pico",
+	"healthicon": "pico-mom",
 	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		31,
+		26,
+		67
 	],
 	"camera_position": [
-		220,
+		100,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.95
 }

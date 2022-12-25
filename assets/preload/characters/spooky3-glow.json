@@ -1,17 +1,6 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				87,
-				-8
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "spooky kids YEAH!!"
-		},
-		{
 			"loop": false,
 			"offsets": [
 				197,
@@ -47,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-70
+				94,
+				3
 			],
 			"fps": 12,
 			"anim": "danceRight",
@@ -63,8 +52,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				58,
-				3
+				63,
+				23
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -73,8 +62,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				-70
+				93,
+				3
 			],
 			"loop": false,
 			"fps": 12,
@@ -89,21 +78,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/spooky_kids_assets3glow",
 	"position": [
 		0,
-		140
+		150
 	],
-	"healthicon": "spooky",
+	"healthicon": "spooky3-glow",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
+		0,
+		0,
 		0
 	],
 	"camera_position": [
 		-50,
-		60
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1

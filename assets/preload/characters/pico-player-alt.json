@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				48
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance Day 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico Note Up Day 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Note Down Day 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right Day 1"
+		},
+		{
+			"offsets": [
+				17,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Left Day 1"
+		},
+		{
+			"offsets": [
+				39,
+				190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "Pico Note Up Day 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				53
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "Pico reload day 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				577,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Pico Shoot Day 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_Mom_AssetsD1-alt",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "pico-mom-alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

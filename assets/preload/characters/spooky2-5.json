@@ -1,17 +1,6 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				87,
-				-8
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "spooky kids YEAH!!"
-		},
-		{
 			"loop": false,
 			"offsets": [
 				197,
@@ -89,12 +78,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/spooky_kids_assets2-5",
 	"position": [
 		0,
-		140
+		150
 	],
-	"healthicon": "spooky",
+	"healthicon": "spooky2",
 	"flip_x": false,
 	"healthbar_colors": [
 		213,

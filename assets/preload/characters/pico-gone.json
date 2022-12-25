@@ -4,7 +4,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				43
+				0
 			],
 			"fps": 24,
 			"anim": "idle",
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				43
+				6,
+				-2
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-88,
-				31
+				-9,
+				-1
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -36,8 +36,30 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				45
+				-60,
+				31
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				2
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -47,44 +69,44 @@
 		{
 			"loop": false,
 			"offsets": [
-				180,
-				-19
+				210,
+				-28
 			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"offsets": [
+				19,
+				-7
+			],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Pico Down Note0"
-		},
-		{
-			"offsets": [
-				-37,
-				41
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "shoot",
-			"indices": [],
-			"name": "Pico Shoot"
-		},
-		{
-			"offsets": [
-				55,
-				16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "reload",
-			"indices": [],
-			"name": "Pico Reload"
+			"name": "Pico Down Note"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Pico_FNF_assetss",
 	"position": [
-		20,
-		310
+		0,
+		300
 	],
-	"healthicon": "pico",
+	"healthicon": "face",
 	"flip_x": true,
 	"healthbar_colors": [
 		137,
@@ -92,9 +114,9 @@
 		204
 	],
 	"camera_position": [
-		10,
-		-10
+		350,
+		200
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.1
 }

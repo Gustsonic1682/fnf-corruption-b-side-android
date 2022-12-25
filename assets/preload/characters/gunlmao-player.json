@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-779,
+				-675
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gun lmao",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-650,
+				-660
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gun lmao"
+		},
+		{
+			"offsets": [
+				-886,
+				-670
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gun lmao"
+		},
+		{
+			"offsets": [
+				-750,
+				-410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gun lmao"
+		},
+		{
+			"offsets": [
+				-770,
+				-721
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gun lmao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thegunlmao",
+	"position": [
+		-650,
+		-100
+	],
+	"healthicon": "gun",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-750,
+		650
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

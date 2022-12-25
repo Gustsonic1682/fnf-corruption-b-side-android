@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				-5
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				-13
+				5,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				-39
+				-15,
+				-49
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-39,
-				27
+				-42,
+				30
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-45,
-				-11
+				-55,
+				-9
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-7,
+				2
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				22,
-				-22
+				29,
+				61
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				22,
-				-22
+				32,
+				-2
 			],
 			"loop": true,
 			"fps": 24,
@@ -106,7 +106,7 @@
 		{
 			"offsets": [
 				9,
-				-17
+				14
 			],
 			"loop": false,
 			"fps": 24,
@@ -116,8 +116,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				-16
+				-51,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -127,8 +127,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-40
+				-23,
+				-22
 			],
 			"loop": false,
 			"fps": 24,
@@ -138,8 +138,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				22
+				-35,
+				26
 			],
 			"loop": false,
 			"fps": 24,
@@ -149,50 +149,28 @@
 		},
 		{
 			"offsets": [
-				19,
-				26
+				31,
+				4
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
 			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				10,
-				25
-			],
-			"loop": false,
-			"fps": 25,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-9,
-				-12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BfOld",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-old",
 	"flip_x": true,
 	"healthbar_colors": [
-		31,
-		26,
-		47
+		41,
+		207,
+		228
 	],
 	"camera_position": [
 		0,

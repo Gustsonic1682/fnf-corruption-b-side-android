@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				0,
-				-10
+				-11
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -102,7 +102,7 @@
 		{
 			"offsets": [
 				109,
-				-77
+				-81
 			],
 			"loop": true,
 			"anim": "hairBlow",
@@ -143,7 +143,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-31
+				-30
 			],
 			"anim": "cheer",
 			"fps": 24,
@@ -152,7 +152,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/gfFinal",
 	"position": [
 		0,
 		10

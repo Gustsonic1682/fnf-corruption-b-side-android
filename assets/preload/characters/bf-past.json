@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				-5
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				-13
+				5,
+				-8
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				-39
+				-14,
+				-35
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-39,
-				27
+				-46,
+				34
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-45,
-				-11
+				-55,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				5,
-				-6
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,7 +69,7 @@
 		{
 			"offsets": [
 				22,
-				-22
+				-17
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				22,
-				-22
+				21,
+				-17
 			],
 			"loop": true,
 			"fps": 24,
@@ -106,7 +106,7 @@
 		{
 			"offsets": [
 				9,
-				-17
+				-10
 			],
 			"loop": false,
 			"fps": 24,
@@ -116,8 +116,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				-16
+				-52,
+				-12
 			],
 			"loop": false,
 			"fps": 24,
@@ -128,7 +128,7 @@
 		{
 			"offsets": [
 				-6,
-				-40
+				-37
 			],
 			"loop": false,
 			"fps": 24,
@@ -139,7 +139,7 @@
 		{
 			"offsets": [
 				-42,
-				22
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -149,8 +149,8 @@
 		},
 		{
 			"offsets": [
-				19,
-				26
+				20,
+				-17
 			],
 			"loop": false,
 			"fps": 24,
@@ -160,29 +160,29 @@
 		},
 		{
 			"offsets": [
-				10,
-				25
+				0,
+				0
 			],
-			"loop": false,
-			"fps": 25,
-			"anim": "hurt",
 			"indices": [],
-			"name": "BF hit"
+			"fps": 25,
+			"anim": "dodge",
+			"loop": false,
+			"name": "boyfriend dodge"
 		},
 		{
 			"offsets": [
-				-9,
-				-12
+				10,
+				30
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
 			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 25,
+			"anim": "hurt",
+			"loop": false,
+			"name": "BF hit"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bfPast",
 	"position": [
 		0,
 		350
@@ -190,9 +190,9 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		31,
-		26,
-		47
+		20,
+		20,
+		29
 	],
 	"camera_position": [
 		0,
